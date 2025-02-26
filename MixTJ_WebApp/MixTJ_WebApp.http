@@ -1,0 +1,6 @@
+@MixTJ_WebApp_HostAddress = http://localhost:5283
+
+GET {{MixTJ_WebApp_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
